@@ -1,5 +1,0 @@
-qweqwe
-asdf
-after ignore
-test checkout order
-test reset hard file
