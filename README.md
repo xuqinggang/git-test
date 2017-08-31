@@ -1,3 +1,3 @@
 # git-test
 checkout --file
-test reset hard file
+test reset hard files
